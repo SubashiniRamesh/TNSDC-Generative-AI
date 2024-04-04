@@ -17,12 +17,12 @@ Environment: kaggle
 
 Libraries Requirements
 
-pandas
-numpy
-matplotlib
-keras
-tensorflow
-scikit-learn
+pandas,
+numpy,
+matplotlib,
+keras,
+tensorflow,
+scikit-learn.
 
 Neural Network
 

@@ -31,3 +31,5 @@ CNN Network
 Gender Accuracy: 90.00 Age MAE: 6.5
 
 Video link:https://drive.google.com/file/d/1sVnLtGs-AT-82xJw8-xDV_HO4wliE1-a/view?usp=sharing
+
+Refer Age_and_gender_prediction(main)
